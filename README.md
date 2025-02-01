@@ -25,4 +25,5 @@ This Django-based service collects and monitors competitor data from their websi
 - Personal page
 
 ### Pages About
-- Dashboard: 
+- Dashboard: Hello World
+
