@@ -1,4 +1,3 @@
-# python_project
 ## SnoopStats - Social Media Competitor Analysis Tool: Track Metrics Like Likes, Views, and Shares
 
 ### Overview
